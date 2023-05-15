@@ -1,0 +1,10 @@
+.technobabble-footer {
+    display: block;
+    margin-top: 5px;
+    font-size: 0.75rem;
+    font-style: italic;
+}
+
+    .technobabble-footer i {
+        font-style: normal;
+    }
