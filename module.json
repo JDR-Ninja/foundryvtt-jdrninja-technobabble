@@ -1,25 +1,25 @@
 {
-    "id": "jdrninja-technobabble",
-    "title": "JDR Ninja Technobabble",
-    "description": "Génère du technobabble en français",
-    "version": "0.1.1",
-    "compatibility": {
-        "minimum": 10,
-        "verified": 11.301,
-        "maximum": 11
-    },
-    "authors": [
-        {
-            "name": "JDR Ninja"
-        }
-    ],
-    "esmodules": [
-        "/scripts/main.js"
-    ],
-	"styles": [
-        "/styles/technobabble.css"
-    ],
-    "url": "https://github.com/JDR-Ninja/foundryvtt-jdrninja-technobabble",
-    "download": "https://github.com/JDR-Ninja/foundryvtt-jdrninja-technobabble/releases/download/0.1.1/module.zip",
-    "manifest": "https://github.com/JDR-Ninja/foundryvtt-jdrninja-technobabble/releases/latest/download/module.json"
+  "id": "jdrninja-technobabble",
+  "title": "JDR Ninja Technobabble",
+  "description": "Génère du technobabble en français",
+  "version": "0.1.1",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 11.301,
+    "maximum": 11
+  },
+  "authors": [
+    {
+      "name": "JDR Ninja"
+    }
+  ],
+  "esmodules": [
+    "/scripts/main.js"
+  ],
+  "styles": [
+    "/styles/technobabble.css"
+  ],
+  "url": "https://github.com/JDR-Ninja/foundryvtt-jdrninja-technobabble",
+  "download": "https://github.com/JDR-Ninja/foundryvtt-jdrninja-technobabble/releases/download/0.1.1/module.zip",
+  "manifest": "https://github.com/JDR-Ninja/foundryvtt-jdrninja-technobabble/releases/download/latest/module.json"
 }
